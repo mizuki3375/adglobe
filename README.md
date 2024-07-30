@@ -1,1 +1,1 @@
-# adglobe
+# adglobeサマーインターン用
